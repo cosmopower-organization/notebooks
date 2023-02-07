@@ -3,3 +3,5 @@
 *checkpoint.ipynb
 .ipynb_checkpoint
 des-y3-cosmosis_chains.ipynb
+chains/*
+mcmc_input_files/*system*
