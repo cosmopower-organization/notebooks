@@ -5,3 +5,4 @@
 des-y3-cosmosis_chains.ipynb
 chains/*
 mcmc_input_files/*system*
+.DS_Store
