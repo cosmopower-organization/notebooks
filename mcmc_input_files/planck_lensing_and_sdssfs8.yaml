@@ -7,7 +7,7 @@ likelihood:
     path: /path/to/cobaya_packages/data/
 
 theory:
-  soliket.cosmopower.cosmopower:
+  cosmopower:
     path_to_trained_models: /path/to/trained_models/
     DAZ_emulator_name: growth-and-distances/DAZ_v1
     HZ_emulator_name: growth-and-distances/HZ_v1
