@@ -7,3 +7,6 @@ chains/*
 mcmc_input_files/*system*
 .DS_Store
 *.ipynb_checkpoints
+old_stuff
+mcmc_input_files/planck_lensing_and_mockboss-classy_sz.yaml
+mcmc_input_files/planck_lensing_and_sdssfs8-classy_sz.yaml
